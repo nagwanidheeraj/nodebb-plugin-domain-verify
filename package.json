@@ -1,25 +1,26 @@
 {
-  "name": "nodebb-plugin-quickstart",
-  "version": "0.2.3",
-  "description": "A starter kit for quickly creating NodeBB plugins",
+  "name": "nodebb-plugin-domain-verify",
+  "version": "0.0.1",
+  "description": "A NodeBB plugin to restrict email domains for registration",
   "main": "library.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart"
+    "url": "https://github.com/nagwanidheeraj/nodebb-plugin-domain-verify"
   },
   "keywords": [
     "nodebb",
     "plugin",
-    "quickstart",
+    "domain",
+    "verify",
     "shell"
   ],
   "author": {
-    "name": "psychobunny",
-    "email": "psycho.bunny@hotmail.com"
+    "name": "deejay",
+    "email": "npe@oldschoolbikers.in"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+    "url": "https://github.com/nagwanidheeraj/nodebb-plugin-domain-verify/issues"
   },
   "readmeFilename": "README.md",
   "nbbpm": {
